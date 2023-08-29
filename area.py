@@ -1,3 +1,4 @@
+print("welcome to my code in python")
 print("Area of a Circle")
 rad  = input("Enter radius: ") 
 area = 3.142 * float(rad) * float(rad)
